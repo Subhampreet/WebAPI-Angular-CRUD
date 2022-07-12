@@ -4,4 +4,5 @@ Insert Update and Delete Operation Methods are implemented in Web API using SQL 
 
 <img src="https://github.com/Subhampreet/WebAPI-Angular-CRUD/blob/main/webapi.PNG">
 
-[Reference Tutorial](https://youtu.be/jYvkMv7LzCw)
+- [Reference Tutorial](https://youtu.be/jYvkMv7LzCw)
+- [CRUD Operation using Angular and Dot Net Web API](https://www.techieclues.com/articles/create-and-build-an-asp-net-core-angular-crud-application-part-1)
